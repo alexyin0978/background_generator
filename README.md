@@ -1,2 +1,2 @@
 1.This is a course project using Javascript, DOM, HTML and CSS.<br>
-The single web page can generate linear-background using colors picked by the user.
+2.The single web page can generate linear-background using colors picked by the user.
